@@ -36,14 +36,6 @@ BridgeLabz-Training-Backend
 │
 ├── Greeting_Servlet_Application2
 │   └── Greeting Web Application (With Login)
-│
-├── Contacts_App
-│
-├── Employee_Payroll_App
-│
-├── Address_Book_App
-│
-└── Fundoo_Notes_Backend
 ```
 
 > **Note:** Each project is maintained in its own Git branch.
